@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.kotak{
+    padding: 50px; 
+    width: 100px; 
+    height: 50px; 
+    color: #fff; 
+    margin: 10px;
+    background: #0288d1; 
+    float: left; 
+}
+.kotak2{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #fd008b;
+    float: left;
+}
+
+#kotak{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #eee3e3;
+    margin: 10px;
+    background: #bbff00;
+    float: left;
+}
+
+#kotak1{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #eee3e3;
+    margin: 10px;
+    background: #15ff00;
+    float: left;
+}

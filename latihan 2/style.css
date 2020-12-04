@@ -1,0 +1,26 @@
+h1{
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak{
+    background: olivedrab;/*warna latar belakang kotak*/
+    color: #ffffff;/*warna tulisan*/
+    width: 100px;/*lebar*/
+    height: 50px;/*tinggi*/
+    padding: 50px;/*jarak tulisan dan kotak*/
+    margin: 10px;/*jarak antar kotak*/
+    float: left;/*susunan antar kotak jadi mepet kiri*/
+    font-weight: bold;
+}
+
+#kotak{
+    background: tomato;
+    color: #666666;
+    width: 100px;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    float: left;
+    font-weight: bold;
+}
